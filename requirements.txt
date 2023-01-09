@@ -17,3 +17,4 @@ Werkzeug==2.2.2
 zipp==3.11.0
 zope.event==4.6
 zope.interface==5.5.2
+redis==4.4.1
